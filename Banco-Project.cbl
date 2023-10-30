@@ -13,7 +13,8 @@
        WORKING-STORAGE SECTION.
        PROCEDURE DIVISION.
        MAIN-PROCEDURE.
-           DISPLAY "Hello World"
+           DISPLAY "Hello  World"
+
            STOP RUN.
 
        END PROGRAM BANCO-PROJECT.
