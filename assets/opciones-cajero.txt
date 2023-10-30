@@ -1,0 +1,5 @@
+1 Retiros Cuenta Corriente.
+2 Retiros Cuenta Ahorros.
+3 Consignar.
+4 Transferir.
+5 Salir.
